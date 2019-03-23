@@ -4,7 +4,7 @@ using DiffPlex.Model;
 namespace DiffPlex
 {
     ///     <summary>
-        ///     Provides methods for generate differences between texts
+        ///     Provides methods for generate differences between texts - update time 14:27
         ///     </summary>
             public interface IDiffer
     {
